@@ -11,6 +11,8 @@
 	<url>http://www.ingenieria.deusto.es</url>
 
 	<properties>
+	<maven.compiler.target>1.8</maven.compiler.target>
+	<maven.compiler.source>1.8</maven.compiler.source>
 		<doxygen.config.file>${basedir}/src/main/resources/Doxyfile</doxygen.config.file>
 	</properties>
 	<build>
